@@ -1,0 +1,7 @@
+# No external dependencies required.
+# Uses Python 3 Standard Library:
+# - sqlite3
+# - hashlib
+# - argparse
+# - shutil
+# - os

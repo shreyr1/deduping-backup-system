@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases and Storage
+backups/*.db
+storage/
+logs/*.log
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
